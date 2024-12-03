@@ -37,3 +37,42 @@
 </div>
 
 ###
+
+<h1 align="left">Olá 👋 Tudo bem?</h1>
+
+###
+
+<p align="left">👋 Olá! Sou Leonardo Freitas dos Santos, estudante de Engenharia da Computação atualmente no terceiro ano da faculdade.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">💻 Apaixonado por tecnologia, estou sempre explorando novas linguagens, projetos e, claro, encontrando maneiras criativas de transformar pequenos problemas em aventuras épicas de depuração.<br><br>🌱 No momento, estou mergulhando em automação, desenvolvimento de software e APIs.<br><br>🚀 Meu objetivo de vida? Escrever um código tão impecável que até o compilador me aplauda de pé... um dia eu chego lá!<br><br>💬 Está curioso sobre algum dos meus projetos? Fique à vontade para entrar em contato—adoro compartilhar ideias (e dar risadas dos bugs pelo caminho).</p>
+
+###
+
+<h2 align="left">Eu programo com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo do Python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo do JavaScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo do Java"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="logo do C"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="logo do C++"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo do MySQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo do HTML5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo do CSS3"  />
+</div>
+
